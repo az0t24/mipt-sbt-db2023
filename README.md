@@ -6,4 +6,4 @@
 + ScyllaDB
 + ArenadataDB
 
-[Решение](https://github.com/az0t24/sbertech_db/edit/main/task1.md)
+[Решение](https://github.com/az0t24/sbertech_db/blob/main/task1.md)
