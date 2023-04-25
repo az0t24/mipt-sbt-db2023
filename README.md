@@ -6,7 +6,7 @@
 + ScyllaDB
 + ArenadataDB
 
-[Решение](task1.md)
+[Решение](task1/task1.md)
 
 
 ### Задание 2
